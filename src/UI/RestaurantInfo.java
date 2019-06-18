@@ -105,7 +105,6 @@ public class RestaurantInfo {
             }
         });
 
-        System.out.println(restaurantInfo.getSize());
     }
 
 

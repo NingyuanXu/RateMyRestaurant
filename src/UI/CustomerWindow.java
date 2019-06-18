@@ -71,7 +71,6 @@ public class CustomerWindow {
 
         //set up layout
         setupLayout();
-      //  System.out.println(customerWindow.getSize());
 
         //ActionListener
         searchButton.addActionListener(new ActionListener() {

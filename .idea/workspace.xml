@@ -2,111 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="038a5040-952c-4d95-9d17-72794772a388" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f1605ae2-0b7b-4894-8354-ea2393eafafc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f1605ae2-0b7b-4894-8354-ea2393eafafc/storage_v2/_src_/schema/ORA_KEVINC97.AUMOZQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f1605ae2-0b7b-4894-8354-ea2393eafafc/storage_v2/_src_/schema/ORA_WILLIB.DN3Peg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/f1605ae2-0b7b-4894-8354-ea2393eafafc/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/forms_rt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hb15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Plans/ERD.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Plans/GUI Draft.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Plans/SQL DDL.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Plans/SQL DML.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Plans/SSH Tunnel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Plans/Schema.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Plans/~$Schema.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RateMyRestaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Libraries/forms_rt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Libraries/hb15.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Libraries/ojdbc7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/META-INF/RateMyRestaurant.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Models/Administrator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Models/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Models/Rate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Models/Restaurant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Models/RestaurantStar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Models/Voucher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/OracleManager/OracleManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/OracleManager/OracleManagerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/Protocol/Protocol.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/AdministratorWindow$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/AdministratorWindow$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/AdministratorWindow$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/AdministratorWindow$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/AdministratorWindow$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/AdministratorWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/CustomerWindow$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/CustomerWindow$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/CustomerWindow$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/CustomerWindow$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/CustomerWindow$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/CustomerWindow$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/CustomerWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/LoginPage$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/LoginPage$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/LoginPage$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/RateMyRestaurant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/RestaurantInfo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/RestaurantInfo$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/UI/RestaurantInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RateMyRestaurant/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/RateMyRestaurant/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Libraries/forms_rt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Libraries/hb15.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Libraries/ojdbc7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Rate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/RestaurantStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/Voucher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OracleManager/OracleManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OracleManager/OracleManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Protocol/Protocol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/AdministratorWindow.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/AdministratorWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/CustomerWindow.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/CustomerWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/LoginPage.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/RestaurantInfo.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/RestaurantInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/CustomerWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/CustomerWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/RestaurantInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/RestaurantInfo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -160,8 +58,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UI/AdministratorWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
+            <state relative-caret-position="416">
               <caret line="116" column="95" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UI/CustomerWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/RestaurantInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
             </state>
           </provider>
         </entry>
@@ -176,53 +92,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project Plans/SQL DML.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/RATE">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="25ccb397-49e7-4987-a765-728242ebf459">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UI/RateMyRestaurant.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Models/Administrator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Models/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Models/Rate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Models/Restaurant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
               <folding>
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#2065#2066#0" expanded="true" />
+                <element signature="e#2096#2097#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UI/AdministratorWindow.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UI/2.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UI/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/CUSTOMER">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="25ccb397-49e7-4987-a765-728242ebf459">
+              <filtering>
+                <filter text="" />
+              </filtering>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UI/RestaurantInfo.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UI/1.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -273,9 +201,9 @@
         <option value="$PROJECT_DIR$/src/UI/RestaurantInfo.form" />
         <option value="$PROJECT_DIR$/src/UI/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/UI/AdministratorWindow.java" />
-        <option value="$PROJECT_DIR$/src/UI/CustomerWindow.java" />
-        <option value="$PROJECT_DIR$/src/UI/RestaurantInfo.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/UI/RestaurantInfo.java" />
+        <option value="$PROJECT_DIR$/src/UI/CustomerWindow.java" />
       </list>
     </option>
   </component>
@@ -286,8 +214,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
-    <option name="y" value="23" />
+    <option name="x" value="216" />
+    <option name="y" value="48" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
   </component>
@@ -297,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,7 +296,26 @@
               <item name="RateMyRestaurant" type="b2602c69:ProjectViewProjectNode" />
               <item name="RateMyRestaurant" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RateMyRestaurant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RateMyRestaurant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RateMyRestaurant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RateMyRestaurant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RateMyRestaurant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RateMyRestaurant" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="AdministratorWindow" type="e9f4de52:FormNode" />
             </path>
             <path>
               <item name="RateMyRestaurant" type="b2602c69:ProjectViewProjectNode" />
@@ -383,13 +329,14 @@
               <item name="RateMyRestaurant" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="UI" type="462c0819:PsiDirectoryNode" />
-              <item name="LoginPage" type="e9f4de52:FormNode" />
+              <item name="RestaurantInfo" type="e9f4de52:FormNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,7 +385,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.RateMyRestaurant">
-    <configuration name="RateMyRestaurant" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
+    <configuration name="RateMyRestaurant" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UI.RateMyRestaurant" />
       <module name="RateMyRestaurant" />
       <extension name="coverage">
@@ -577,6 +524,8 @@
       <workItem from="1560824756529" duration="817000" />
       <workItem from="1560826140901" duration="333000" />
       <workItem from="1560826533062" duration="272000" />
+      <workItem from="1560826808735" duration="110000" />
+      <workItem from="1560826922822" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="Final">
       <created>1560826315412</created>
@@ -592,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560826684097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final">
+      <created>1560826889990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560826889991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -628,12 +584,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84230000" />
+    <option name="totallyTimeSpent" value="84762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="134" width="1440" height="812" extended-state="0" />
+    <frame x="41" y="70" width="1440" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.21888413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.22460657" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.16380544" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -642,7 +599,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3472222" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34583333" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39722222" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -709,7 +666,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/UI/CustomerWindow.java</url>
-          <line>186</line>
+          <line>185</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -756,17 +713,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Project Plans/SQL DDL.sql" />
-    <entry file="file://$PROJECT_DIR$/src/Models/Restaurant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
-          <folding>
-            <element signature="e#2065#2066#0" expanded="true" />
-            <element signature="e#2096#2097#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/d.java" />
     <entry file="file://$PROJECT_DIR$/src/UI/BackgroundPanel.java" />
     <entry file="file://$PROJECT_DIR$/RateMyRestaurant.iml">
@@ -849,25 +795,11 @@
     <entry file="file://$PROJECT_DIR$/src/UI/CustomerWindow.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/RestaurantInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/4.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/CustomerWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OracleManager/OracleManager.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -892,20 +824,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/RATE" />
     <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/STAR" />
     <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/VOUCHER" />
     <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/PROMOTE" />
     <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/RESTAURANT" />
-    <entry file="file://$PROJECT_DIR$/src/UI/AdministratorWindow.java">
+    <entry file="file://$PROJECT_DIR$/Project Plans/SQL DML.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/RateMyRestaurant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="116" column="95" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="95" />
+        <state relative-caret-position="240">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/AdministratorWindow.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/2.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/RestaurantInfo.form">
       <provider selected="true" editor-type-id="ui-designer" />
@@ -920,30 +871,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project Plans/SQL DML.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/CUSTOMER">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="25ccb397-49e7-4987-a765-728242ebf459">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/AdministratorWindow.form">
-      <provider selected="true" editor-type-id="ui-designer" />
+    <entry file="das://f1605ae2-0b7b-4894-8354-ea2393eafafc/schema/ORA_WILLIB/table/RATE">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="25ccb397-49e7-4987-a765-728242ebf459">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/Models/Administrator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="61" column="24" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Rate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Models/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2096#2097#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/RateMyRestaurant.java">
+    <entry file="file://$PROJECT_DIR$/src/UI/AdministratorWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="416">
+          <caret line="116" column="95" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/RestaurantInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/CustomerWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
         </state>
       </provider>
     </entry>
